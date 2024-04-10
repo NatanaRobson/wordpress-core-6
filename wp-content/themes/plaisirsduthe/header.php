@@ -11,7 +11,7 @@
 
 <body <?php body_class(); ?>>
     <header>
-        <img class="logo" src="https://www.pngarts.com/files/3/Green-Tea-Transparent-Images.png" alt="green tea cup">
+        <img class="logo" src="http://localhost/wordpress-salon-de-the/wp-content/uploads/2024/04/ECF_DWWM_Wordpress_Theme_Niveau1_logo.jpg" alt="green tea cup">
         <nav>
             <?php
             wp_nav_menu(array(

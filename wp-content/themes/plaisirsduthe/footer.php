@@ -1,1 +1,1 @@
-<img class="map" src="https://blogimages.musement.com/2020/12/Tea_World_Map_Musement_EN-e1608310360579.png">
+<img class="map" src="http://localhost/wordpress-salon-de-the/wp-content/uploads/2024/04/salondethe.png">
